@@ -6,7 +6,6 @@ Hi, I’m Divyansh Kumar. I am currently pursuing my bachelor’s degree in the 
 
 ## Skills
 | Prog Languages    |       C      | C++          | Python        | Dart           | Javascript       |
-|-------------------|:------------:|--------------|---------------|----------------|------------------|
 | Frameworks        | Tensorflow   | Keras        | Flask         | Flutter        | React js         |
 | Python Libraries  | OpenCV       | Pygames      | nltk          | numpy          | pandas           |
 | Platforms         | Sublime Text | Unity Engine | Visual Studio | Android Studio | Jupyter Notebook |
