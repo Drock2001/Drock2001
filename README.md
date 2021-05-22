@@ -5,14 +5,18 @@
 Hi, I’m Divyansh Kumar. I am currently pursuing my bachelor’s degree in the ECE branch from IIIT Nagpur. I love to dive into technology and apply it to the real world through various projects. I am a keen believer in pi shaped learning and always open to discuss on new technical stuff.
 
 ## Skills
-|   Prog Languages  |       C      |      C++     |     Python    |      Dart      |    Javascript    |
+|   **Prog Languages**  |       C      |      C++     |     Python    |      Dart      |    Javascript    |
 |:-----------------:|:------------:|:------------:|:-------------:|:--------------:|:----------------:|
-|     Frameworks    |  Tensorflow  |     Keras    |     Flask     |     Flutter    |     React js     |
-|  Python Libraries |    OpenCV    |    Pygames   |      nltk     |      numpy     |      pandas      |
-|     Platforms     | Sublime Text | Unity Engine | Visual Studio | Android Studio | Jupyter Notebook |
-|     Databases     |   Firebase   |    MongoDB   |               |                |                  |
-| Operating Systems |    Windows   |     Linux    |               |                |                  |
+|     **Frameworks**    |  Tensorflow  |     Keras    |     Flask     |     Flutter    |     React js     |
+|  **Python Libraries** |    OpenCV    |    Pygames   |      nltk     |      numpy     |      pandas      |
+|     **Platforms**     | Sublime Text | Unity Engine | Visual Studio | Android Studio | Jupyter Notebook |
+|     **Databases**     |   Firebase   |    MongoDB   |               |                |                  |
+| **Operating Systems** |    Windows   |     Linux    |               |                |                  |
 
 ## Github Stats
 ![Divyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drock2001&show_icons=true&theme=dark)
+
+## Most used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drock2001&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
