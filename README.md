@@ -17,6 +17,6 @@ Hi, I’m Divyansh Kumar. I am currently pursuing my bachelor’s degree in the 
 ![Divyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drock2001&show_icons=true&theme=dark)
 
 ## Most used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drock2001&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drock2001&langs_count=5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
