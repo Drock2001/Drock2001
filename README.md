@@ -1,7 +1,8 @@
-![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
+![Travel Photo Plane Vector General Linkedin Banner (1)](https://user-images.githubusercontent.com/59536047/119232342-8e072280-bb42-11eb-8f93-f7d99be1c1f8.png)
 
-# Adrian Twarog
-I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+
+# Divyansh Kumar
+Hi, I’m Divyansh Kumar. I am currently pursuing my bachelor’s degree in the ECE branch from IIIT Nagpur. I love to dive into technology and apply it to the real world through various projects. I am a keen believer in pi shaped learning and always open to discuss on new technical stuff.
 
 ## Skills and Experience
 * ⚛ React
